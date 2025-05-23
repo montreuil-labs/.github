@@ -38,7 +38,7 @@ Have questions or want to get involved? The best way to reach out is through Git
 
 ## 🔗 Links
 
-- [Personal Website](https://montreuil.pages.dev/)
+- [Personal Website](https://montreuil.dev/)
 - [X/Twitter](https://x.com/kanemontreuil)
 
 ---
